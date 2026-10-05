@@ -259,4 +259,80 @@ Healthcare_claims-and-billing_Analysis/
 
 ## 📚 What I Learned
 
-**Technical skills:** data cleaning with pandas, exploratory data analysis, SQL querying with SQL Server, connecting Python to SQL Server, KPI calculation, data visualization, Power BI dashboard development, DAX measures and cross-checking results between
+**Technical skills:** data cleaning with pandas, exploratory data analysis, SQL querying with SQL Server, connecting Python to SQL Server, KPI calculation, data visualization, Power BI dashboard development, DAX measures and cross-checking results between tools.
+
+**Analytical skills:**
+- Missing data should be investigated before it is removed.
+- Not every missing value is an error.
+- Rates should be calculated from totals, not by averaging row-level rates.
+- Dashboard filters can change KPI results.
+- Business decisions should consider both percentages and actual dollar amounts.
+- The most obvious problem is not always the biggest one.
+
+The biggest lesson was that **denials were not the largest source of the revenue gap**. Looking at the dollar amounts showed that **underpayments on paid claims** were a much bigger area to investigate.
+
+---
+
+## 👨‍⚕️ About Me
+
+I am a **Registered Nurse with an Ophthalmic Nursing background and clinical/EMR experience**, moving into **healthcare data analytics**. My healthcare background gives me an understanding of clinical workflows, patient records and healthcare processes, and my data training is building my skills in:
+
+**Python | SQL | Power BI | Data Analysis | Healthcare Analytics**
+
+I want to use data to help healthcare organizations understand their operations, find inefficiencies and make better data-driven decisions.
+
+📧 kennyodoson08@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/kene08)
+
+---
+
+## ⭐ Project Highlights
+
+| Area | Result |
+|---|---:|
+| Records Analyzed | **70,000** |
+| Insurance Providers | **7** |
+| Insurance Claims | **59,638** |
+| Total Billed | **$112.90M** |
+| Total Paid | **$72.85M** |
+| Revenue Gap | **$40.05M** |
+| Collection Rate | **64.5%** |
+| Denial Rate | **10.1%** |
+| Main Revenue Gap Driver | **Underpayments** |
+| Analysis Tools | **Python, SQL Server, Power BI** |
+
+---
+
+## 🔗 Skills Demonstrated
+
+**Data Analysis:** Python, Pandas, Exploratory Data Analysis
+**SQL:** SQL Server, T-SQL, Aggregations, Filtering, Validation
+**Visualization:** Matplotlib, Seaborn, Power BI
+**Business Intelligence:** Power BI, DAX, KPI Development, Interactive Dashboards
+**Healthcare:** Claims Analysis, Billing Analysis, Revenue Cycle Analysis
+**Data Quality:** Missing Values, Duplicates, Validation, Data Consistency
+
+---
+
+## 🚀 Future Analysis
+
+With more data, I would extend this project by analyzing:
+
+- Expected vs actual reimbursement
+- Underpayment by procedure and by insurance provider
+- Reimbursement and denial trends over time
+- Claim processing time
+- Appeal success rates
+- Revenue recovery after claim resubmission
+
+---
+
+## 📌 Conclusion
+
+This project shows that I can take a healthcare dataset, clean and validate it, analyze it with **Python and SQL**, build an interactive **Power BI dashboard**, and turn the results into practical business insights.
+
+Claim denials are an important issue, but **underpayments on paid claims make up a much larger share of the revenue gap**. This shows why it is important to look at the financial impact of the data and not only counts and percentages.
+
+---
+
+**Built as part of my journey from clinical healthcare into data analytics.**
